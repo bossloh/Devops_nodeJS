@@ -1,10 +1,9 @@
-<<<<<<< HEAD
-# Devops_nodeJS
-FintechSG NodeJS test 
-=======
-# GithubActionsTutorial
+# A simple build automation upon push or pull from the master 
 
 Basic Github Actions Workflow for running mocha unit tests. 
 
 Push to develop or master will trigger the workflow. 
->>>>>>> 52d902c...  upload files to repo
+
+All credits go to GithubActionsTutorial 
+
+#Runs a NPM build installation for the action 

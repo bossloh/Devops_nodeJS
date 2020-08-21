@@ -1,4 +1,4 @@
-# Simple npm build and test upon push and pull to/from master 
+# Simple npm build and test upon push and pull to/from master using NodeJS
 
 Basic Github Actions Workflow for running mocha unit tests. 
 
